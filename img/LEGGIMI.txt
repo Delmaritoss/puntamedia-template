@@ -1,0 +1,18 @@
+Immagini del sito
+=================
+
+Nomi attesi dal template (sostituiscili con le foto vere del cliente):
+
+  hero.jpg      foto grande di apertura, orizzontale, 1920px di lato lungo
+  storia.jpg    foto per la sezione "Chi siamo", 4:3
+  g1..g5.jpg    galleria (g1 viene mostrata verticale, le altre quadrate)
+  p1..p4.jpg    prodotti, verticali 4:5
+  camera1.jpg   camera o appartamento, 4:3
+  social.jpg    anteprima per WhatsApp e Facebook, 1200x630
+
+Consigli
+--------
+- Esporta in WebP se puoi, qualita 75-80. Altrimenti JPEG.
+- Tieni ogni file sotto i 300 KB: sono siti che si aprono in 4G al molo.
+- Non ritoccare i colori: il sito le grada da solo in CSS.
+  Regola --grade in cima a index.html (0 = naturale, 1 = duotone).
